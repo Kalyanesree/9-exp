@@ -28,7 +28,6 @@ From the above characteristic table, we can directly write the next state equati
 
 **Procedure**
 
-/* write all the steps invloved */
 
 **PROGRAM**
 
@@ -44,5 +43,7 @@ Developed by: KALYANE SREE M  RegisterNumber:212222050028
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![graph 9](https://github.com/Kalyanesree/9-exp/assets/163311552/7293893a-922d-486a-9b2e-fc2353fc58f1)
 
 **RESULTS**
+Hence, T flipflop using verilog and validating their functionality using their functional tables is implemented.
